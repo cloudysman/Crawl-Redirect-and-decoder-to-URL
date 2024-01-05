@@ -1,11 +1,10 @@
-"""
-# Hướng dẫn Sử dụng
+# User manual
 
-Đây là hướng dẫn sử dụng cho chương trình crawl và decoder URL.
+This is a user guide for the URL crawler and decoder program.
 
-## Bước 1: Chạy File Crawl_Direct_1.py
-Đầu tiên, chúng ta sẽ chạy file `Crawl_Direct_1.py` để crawl danh sách các link redirect từ trang web.
+## Step 1: Run File Crawl_Direct_1.py
+First, we will run the `Crawl_Direct_1.py` file to crawl the list of redirect links from the website.
 
-## Bước 2: Chạy File Crawl_Direct_2.py
-Tiếp theo, chúng ta sẽ chạy file `Crawl_Direct_2.py` để decoder các link redirect thành các URL gốc.
-"""
+## Step 2: Run File Crawl_Direct_2.py
+Next, we will run the `Crawl_Direct_2.py` file to decoder redirect links into original URLs.
+
